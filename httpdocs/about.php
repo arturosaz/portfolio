@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     
-<!-- Mirrored from tamzidhossain.info/html/lamisa-online/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Feb 2018 08:49:57 GMT -->
+<!-- Mirrored from tamzidhossain.info/html/lamisa-online/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Feb 2018 08:49:57 GMT -->
 <head>
         <!-- ========== PAGE TITLE ========== -->
         <title>Lamisa-Personal Responsive Html5 Template</title>
@@ -65,7 +65,7 @@
                                             <a href="index-2.html">Home</a>
                                         </li>
                                         <li>
-                                            <a href="about.html" class="active">About</a>
+                                            <a href="about.php" class="active">About</a>
                                         </li>
                                         <li>
                                             <a href="work.html">Work</a>
@@ -408,5 +408,5 @@
         <script src="js/jQuery-latest.js" type="text/javascript"></script>
     </body><!-- end body -->
 
-<!-- Mirrored from tamzidhossain.info/html/lamisa-online/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Feb 2018 08:50:15 GMT -->
+<!-- Mirrored from tamzidhossain.info/html/lamisa-online/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Feb 2018 08:50:15 GMT -->
 </html><!-- end html -->
