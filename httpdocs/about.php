@@ -1,412 +1,61 @@
-<!doctype html>
-<html lang="en">
-    
-<!-- Mirrored from tamzidhossain.info/html/lamisa-online/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Feb 2018 08:49:57 GMT -->
-<head>
-        <!-- ========== PAGE TITLE ========== -->
-        <title>Lamisa-Personal Responsive Html5 Template</title>
-        <!-- ========== META TAGS ========== -->
-        <meta name="description" content="coming soon template based on HTML5">
-        <meta name="keywords" content="coming soon, under construction, countdown">
-        <meta charset="utf-8">
-        <meta name="author" content="XXXXX">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- ========== CSS ========== -->
-        <link rel="stylesheet" href="css/animate.css">
-        <link rel="stylesheet" href="css/site.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat" rel="stylesheet"> 
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="screen">
-        <link rel="stylesheet" type="text/css" href="assets/css/animate.css" media="screen">
-        <script src="../../../use.fontawesome.com/1b98f46f85.js"></script>
-        <link href="css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="css/style.css">
-        <link id="color" href="css/color.css" rel="stylesheet">
-        <!-- ========== JQUERY PLUGIN ========== -->
-        <script type="text/javascript" src="js/ajax-jquery.min.js"></script>
-
-    </head><!-- end head -->
-    <body>
-        <div class="se-pre-con"></div><!-- ========== PRELOADER ========== -->
-        <!-- ========== MENUBAR ========== -->
-        <div class="box">
-            <div class="option"><i class="fa fa-cogs fa-2x" aria-hidden="true"></i></div>
-            <span class="color default"></span>
-            <span class="color style1"></span>
-            <span class="color style2"></span>
-            <span class="color style3"></span>
-            <span class="color style4"></span>
-            <span class="color style5"></span>
-        </div>
-        <div class="menubar">
-            <div class="menubar-content">
-                <nav class="navbar navbar-default navbar-fixed-top white">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-2 col-sm-2">
-                                <div class="site-title">
-                                    <h3>Lamisa</h3>
-                                </div><!-- end site-title -->
-                            </div><!-- end col-md-4 -->
-                            <div class="navbar-header">
-                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                                    <span class="sr-only">Toggle navigation</span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                </button><!-- end button -->
-                            </div><!-- end navbar-header -->
-                            <div class="col-md-10 col-sm-10 navbar-style">
-                                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                                    <ul class="nav navbar-nav">
-                                        <li>
-                                            <a href="index-2.html">Home</a>
-                                        </li>
-                                        <li>
-                                            <a href="about.php" class="active">About</a>
-                                        </li>
-                                        <li>
-                                            <a href="work.html">Work</a>
-                                        </li>
-                                        <li>
-                                            <a href="blog.html">Blog</a>
-                                        </li>
-                                        <li>
-                                            <a href="contact.html">Contact</a>
-                                        </li>
-                                    </ul><!-- end nav -->
-                                </div><!-- end collapse navbar-collapse -->
-                            </div><!-- end col-md-8 -->
-                        </div><!-- end row -->
-                    </div><!-- end container-fluid -->
-                </nav><!-- navbar -->
-            </div><!-- end menubar-content -->
-        </div><!-- end menubar -->
-        <div class="main-page-content">
-
-            <!-- ================================ ABOUT =============================== -->
-
-            <div id="about">
-                <div class="about-content">
-                    <div class="me-grid">
-                        <div class="container">
-                            <div class="row wow fadeIn">
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="about-image">
-                                        <img src="img/about-image.jpg" alt="" class="about-img">
-                                    </div><!-- end about-image  -->
-                                </div><!-- end col-md-4  -->
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="about-details">
-                                        <h3>I Am Superman !</h3>
-                                        <div class="underline1 no-margin"></div>
-                                        <p class="text-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet.</p>
-                                        <div class="about-text">
-                                            <ul>
-                                                <li>I Am Good At Design.</li>
-                                                <li>I Am Good At Developing.</li>
-                                                <li>I Am Good At Photography.</li>
-                                                <li>I Love Traveling.</li>
-                                                <li>I Am Adorable.</li>
-                                            </ul>
-                                        </div>
-                                        <a class="about-contact1" href="contact.html">Know Me Better</a>
-                                    </div><!-- end about-details  -->
-                                </div><!-- end col-md-8  -->
-                            </div><!-- end row  -->
-                        </div><!-- end container  -->
-                    </div><!-- end me-grid  -->
-                    <div class="work-counter text-center">
-                        <div id="counter">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-3 col-sm-6">
-                                        <div class="work-statistics text-center">
-                                            <i class="fa fa-star stat-icon" aria-hidden="true"></i>
-                                            <h3 class="Count">2379</h3>
-                                            <p>Idea Making</p>
-                                        </div><!-- end work-statistics  -->
-                                    </div><!-- end col-md-3  -->
-                                    <div class="col-md-3 col-sm-6">
-                                        <div class="work-statistics text-center">
-                                            <i class="fa fa-crop stat-icon" aria-hidden="true"></i>
-                                            <h3 class="Count">2727</h3>
-                                            <p>Graphics Design</p>
-                                        </div><!-- end work-statistics  -->
-                                    </div><!-- end col-md-3  -->
-                                    <div class="col-md-3 col-sm-6">
-                                        <div class="work-statistics text-center">
-                                            <i class="fa fa-bolt stat-icon" aria-hidden="true"></i>
-                                            <h3 class="Count">3635</h3>
-                                            <p>Website Created</p>
-                                        </div><!-- end work-statistics  -->
-                                    </div><!-- end col-md-3  -->
-                                    <div class="col-md-3 col-sm-6">
-                                        <div class="work-statistics text-center">
-                                            <i class="fa fa-coffee stat-icon" aria-hidden="true"></i>
-                                            <h3 class="Count">2120</h3>
-                                            <p>Coffee Taken</p>
-                                        </div><!-- end work-statistics  -->
-                                    </div><!-- end col-md-3  -->
-                                </div><!-- end row  -->
-                            </div><!-- end container-fluid  -->
-                        </div><!-- end counter  -->
-                    </div><!-- end work-counter  -->
-                    <div id="process-grid">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="process-title text-center wow fadeIn">
-                                        <h3>Completed Project</h3>
-                                        <div class="underline1"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.</p>
-                                    </div><!-- end team-title  -->
-                                </div><!-- end col-md-12  -->
-                            </div><!-- end row  -->
-                            <div class="row tips-row">
-                                <div>
-                                    <ul class="nav nav-tabs" role="tablist">
-                                        <li role="presentation" class="active1 active"><a href=".html" role="tab" data-toggle="tab">Project 1</a></li>
-                                        <li role="presentation" class="active1"><a href="-2.html" role="tab" data-toggle="tab">Project 2</a></li>
-                                        <li role="presentation" class="active1"><a href="-3.html" role="tab" data-toggle="tab">Project 3</a></li>
-                                        <li role="presentation" class="active1"><a href="-4.html" role="tab" data-toggle="tab">Project 4</a></li>
-                                    </ul>
-                                    <div class="tab-content wow fadeIn">
-                                        <div role="tabpanel" class="process1 tab-pane fade in active1 active" >
-                                            <div class="container">
-                                                <div class="row details-row">
-                                                    <div class="col-md-6 col-sm-6 about-main about-col-res">
-                                                        <div class="process1-image"></div>
-                                                    </div><!-- end col-md-4  -->
-                                                    <div class="col-md-6 col-sm-6 about-main description-res">
-                                                        <div class="day-text table-cell text-left">
-                                                            <h3>Project 1</h3>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-                                                            <a class="about-contact1" href="#contact">Learn more</a>
-                                                        </div><!-- end property-text  -->
-                                                    </div><!-- end col-md-8  -->
-                                                </div><!-- end row  -->
-                                            </div><!-- end container  -->
-                                        </div><!-- end tab-panel  -->
-                                        <div role="tabpanel" class="process2 tab-pane fade">
-                                            <div class="container">
-                                                <div class="row details-row">
-                                                    <div class="col-md-6 col-sm-6 about-main about-col-res">
-                                                        <div class="process2-image"></div>
-                                                    </div><!-- end col-md-4  -->
-                                                    <div class="col-md-6 col-sm-6 about-main">
-                                                        <div class="day-text table-cell text-left">
-                                                            <h3>Project 2</h3>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-                                                            <a class="about-contact1" href="#contact">Learn more</a>
-                                                        </div><!-- end property-text  -->
-                                                    </div><!-- end col-md-8  -->
-                                                </div><!-- end row  -->
-                                            </div><!-- end container  -->
-                                        </div><!-- end tab-panel  -->
-                                        <div role="tabpanel" class="process3 tab-pane fade">
-                                            <div class="container">
-                                                <div class="row details-row">
-                                                    <div class="col-md-6 col-sm-6 about-main about-col-res">
-                                                        <div class="process3-image"></div>
-                                                    </div><!-- end col-md-4  -->
-                                                    <div class="col-md-6 col-sm-6 about-main">
-                                                        <div class="day-text table-cell text-left">
-                                                            <h3>Project 3</h3>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-                                                            <a class="about-contact1" href="#contact">Learn more</a>
-                                                        </div><!-- end property-text  -->
-                                                    </div><!-- end col-md-8  -->
-                                                </div><!-- end row  -->
-                                            </div><!-- end container  -->
-                                        </div><!-- end tabpanel  -->
-                                        <div role="tabpanel" class="process4 tab-pane fade">
-                                            <div class="container">
-                                                <div class="row details-row">
-                                                    <div class="col-md-6 col-sm-6 about-main about-col-res">
-                                                        <div class="process4-image"></div>
-                                                    </div><!-- end col-md-4  -->
-                                                    <div class="col-md-6 col-sm-6 about-main">
-                                                        <div class="day-text table-cell text-left">
-                                                            <h3>Project 4</h3>
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
-                                                            <a class="about-contact1" href="#contact">Learn more</a>
-                                                        </div><!-- end property-text  -->
-                                                    </div><!-- end col-md-8  -->
-                                                </div><!-- end row  -->
-                                            </div><!-- end container  -->
-                                        </div><!-- end tab-panel  -->
-                                    </div><!-- end tab-content  -->
-                                </div>
-                            </div><!-- end row -->
-                        </div><!-- end container  -->
-                    </div><!-- end process-grid  -->
-                </div><!-- end about-content  -->
-            </div><!-- end about  -->
-            <div id="skill">
-                <div class="skill-main">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="skill-title black-title text-center wow fadeIn">
-                                    <h3>My Skill</h3>
-                                    <div class="underline1 white"></div>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod tempor enim minim veniam.</p>
-                                </div><!-- end work-title  -->
-                            </div><!-- end col-md-12  -->
-                        </div><!-- end row  -->
-                        <div class="row skill-row wow fadeIn second-row">
-                            <div class="col-md-6 col-sm-6 col-xs-12 about-col1 responsive">
-                                <div class="skillblock-details">
-                                    <div class="skill-details">
-                                        <div class="content">
-                                            <div class="col">
-                                                <ul id="skill-main">
-                                                    <li><h3>Web Design-85%</h3><span class="expand Web"></span></li>
-                                                    <li><h3>Graphics Design-90%</h3><span class="expand Graphics"></span></li>
-                                                    <li><h3>Web Developing-82%</h3><span class="expand Developing"></span></li>
-                                                    <li><h3>Photoshop-89%</h3><span class="expand Photoshop"></span></li>
-                                                    <li><h3>Photography-95%</h3><span class="expand Photography"></span></li>
-                                                </ul>
-                                            </div><!-- end col  -->
-                                        </div><!-- end content  -->
-                                    </div><!-- end skill-details  -->
-                                </div><!-- end about-details  -->
-                            </div><!-- end col-md-8  -->
-                            <div class="col-md-6 col-sm-6 no-padding-col about-col1">
-                                <div class="skill-taxt-details">
-                                </div><!-- end about-details  -->
-                            </div><!-- end col-md-6  -->
-                        </div><!-- end row  -->
-                    </div><!-- end container  -->
-                </div><!-- end skill-main  -->
-                <div class="message1 text-center">
-                    <div id="message-content">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="message1-client wow fadeIn">
-                                        <h3>I Know Exactly What I Am Doing</h3>
-                                        <a class="about-contact1" href="#contact">Contact</a>
-                                    </div><!-- end message-client  -->
-                                </div><!-- end col-md-12  -->
-                            </div><!-- end row  -->
-                        </div><!-- end container  -->
-                    </div><!-- end message-content  -->
-                </div><!-- end work-counter  -->
-            </div><!-- end skill  -->
-
-            <!-- ============================================== SERVICE ===================================================== -->
-
-            <div id="service">
-                <div class="service-content">
-                    <div class="service-grid text-left">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="service-title text-center wow fadeIn">
-                                        <h3>My Service</h3>
-                                        <div class="underline1"></div>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod tempor enim minim veniam.</p>
-                                    </div><!-- end work-title  -->
-                                </div><!-- end col-md-12  -->
-                            </div><!-- end row  -->
-                            <div class="row about-row wow fadeIn">
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="service-details">
-                                        <i class="fa fa-pencil-square-o service-icon" aria-hidden="true"></i>
-                                        <h3>HTML5 AND CSS3</h3>
-                                        <div class="underline1 no-margin margin-top"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                                    </div><!-- end service-details  -->
-                                </div><!-- end col-md-4  -->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="service-details">
-                                        <i class="fa fa-cogs service-icon" aria-hidden="true"></i>
-                                        <h3>Amazing Design</h3>
-                                        <div class="underline1 no-margin margin-top"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                                    </div><!-- end service-details  -->
-                                </div><!-- end col-md-4  -->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="service-details">
-                                        <i class="fa fa-file-image-o service-icon" aria-hidden="true"></i>
-                                        <h3>Easily customisable</h3>
-                                        <div class="underline1 no-margin margin-top"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                                    </div><!-- end service-details  -->
-                                </div><!-- end col-md-4  -->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="service-details">
-                                        <i class="fa fa-heart-o service-icon" aria-hidden="true"></i>
-                                        <h3>Working Contact Form</h3>
-                                        <div class="underline1 no-margin margin-top"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                                    </div><!-- end service-details  -->
-                                </div><!-- end col-md-4  -->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="service-details">
-                                        <i class="fa fa-hourglass service-icon" aria-hidden="true"></i>
-                                        <h3>24/7 Support</h3>
-                                        <div class="underline1 no-margin margin-top"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                                    </div><!-- end service-details  -->
-                                </div><!-- end col-md-4  -->
-                                <div class="col-md-4 col-sm-6">
-                                    <div class="service-details">
-                                        <i class="fa fa-newspaper-o service-icon" aria-hidden="true"></i>
-                                        <h3>Bootstrap 3.0.0</h3>
-                                        <div class="underline1 no-margin margin-top"></div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                                    </div><!-- end service-details  -->
-                                </div><!-- end col-md-4  -->
-                            </div><!-- end row  -->
-                        </div><!-- end container  -->
-                    </div><!-- end service-grid  -->
-                    <div class="copyright-details">
-                        <div class="copyright">
-                            <div class="about-social-icon text-center">
-                                <ul class="about-social"> 
-                                    <li class="wow fadeIn" data-wow-delay=".2s"><a href="www.facebook.html" target="newtab"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li class="wow fadeIn" data-wow-delay=".4s"><a href="www.twitter.html" target="newtab"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li class="wow fadeIn" data-wow-delay=".6s"><a href="www.pinterest.html" target="newtab"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-                                    <li class="wow fadeIn" data-wow-delay=".8s"><a href="www.linkedin.html" target="newtab"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li class="wow fadeIn" data-wow-delay="1s"><a href="www.behance.html" target="newtab"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-                                    <li class="wow fadeIn" data-wow-delay="1.2s"><a href="www.instagram.html" target="newtab"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div><!-- end about-social-icon -->
-                            <h3>copyright and design: tamzid hossain</h3>
-                        </div><!-- end copyright -->
-                    </div><!-- end copyright-details -->
-                </div><!-- end service-content  -->
-            </div><!-- end service  -->
-        </div><!-- end main-page -->
-
-        <!-- ================================ JQUERY =============================== -->
-
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/wow-anim.js"></script>
-        <script type="text/javascript" src="assets/js/form-validator.min.js"></script>  
-        <script type="text/javascript" src="assets/js/contact-form-script.js"></script> 
-        <script src="js/jquery.scrolly.js"></script>
-        <script type="text/javascript" src="js/jquery.fancybox8cbb.js?v=2.1.5"></script>
-        <script type="text/javascript" src="js/jquery.fancybox-buttons3447.js?v=1.0.5"></script>
-        <script type="text/javascript" src="js/jquery.fancybox-thumbsf2ad.js?v=1.0.7"></script>
-        <script type="text/javascript" src="js/jquery.fancybox-mediac924.js?v=1.0.6"></script> 
-        <script type="text/javascript" src="js/jquery.fancybox.pack8cbb.js?v=2.1.5"></script>
-        <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
-        <script src="js/jquery.counterup.min.js"></script>
-        <script src="js/main.js"></script>
-        <script type="text/javascript" src="js/skillbar-animation.js"></script>
-        <script src="js/jQuery-latest.js" type="text/javascript"></script>
-    </body><!-- end body -->
-
-<!-- Mirrored from tamzidhossain.info/html/lamisa-online/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Feb 2018 08:50:15 GMT -->
-</html><!-- end html -->
+<!-- ================================ ABOUT =============================== -->
+<div id="about">
+    <div class="about-content">
+        <div class="me-grid">
+            <div class="container">
+                <div class="row wow fadeIn">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="about-image text-center">
+                            <img src="img/about.png" style="width: 50%!important;" class="about-img">
+                        </div><!-- end about-image  -->
+                    </div><!-- end col-md-4  -->
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="about-details">
+                            <h3>Soy Arturo Saz</h3>
+                            <div class="underline1 no-margin"></div>
+                            <p class="text-1"><i>Project manager</i> en proyectos que han marcado líneas estratégicas y han ayudado a crecer tanto al equipo como a nivel de negocio.</p>
+                            <p class="text-1">Más de 4 años como <i>Fullstack Developer</i> que me han ayudado a crecer en mi carrera profesional.</p>
+                            <p class="text-2"><i>Partnership</i> con marcas punteras a nivel mundial en el sector hotelero y vacacional.</p>
+                        </div><!-- end about-details  -->
+                    </div><!-- end col-md-8  -->
+                </div><!-- end row  -->
+            </div><!-- end container  -->
+        </div><!-- end me-grid  -->
+        <div class="work-counter text-center">
+            <div id="counter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="work-statistics text-center">
+                                <i class="fa fa-code stat-icon" aria-hidden="true"></i>
+                                <h3><span>+</span> <span class="Count">40</span><span>M</span></h3>
+                                <p>Líneas de código escritas</p>
+                            </div><!-- end work-statistics  -->
+                        </div><!-- end col-md-3  -->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="work-statistics text-center">
+                                <i class="fa fa-file stat-icon" aria-hidden="true"></i>
+                                <h3><span>+</span> <span class="Count">50</span><span>k</span></h3>
+                                <p>Ficheros editados</p>
+                            </div><!-- end work-statistics  -->
+                        </div><!-- end col-md-3  -->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="work-statistics text-center">
+                                <i class="fa fa-bolt stat-icon" aria-hidden="true"></i>
+                                <h3><span>+</span> <span class="Count">200</span></h3>
+                                <p>Proyectos gestionados</p>
+                            </div><!-- end work-statistics  -->
+                        </div><!-- end col-md-3  -->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="work-statistics text-center">
+                                <i class="fa fa-coffee stat-icon" aria-hidden="true"></i>
+                                <h3><span>+</span> <span class="Count">2600</span></h3>
+                                <p>Cafés tomados</p>
+                            </div><!-- end work-statistics  -->
+                        </div><!-- end col-md-3  -->
+                    </div><!-- end row  -->
+                </div><!-- end container-fluid  -->
+            </div><!-- end counter  -->
+        </div><!-- end work-counter  -->
+    </div><!-- end about-content  -->
+</div><!-- end about  -->

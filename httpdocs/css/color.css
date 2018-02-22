@@ -278,7 +278,7 @@ body{
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
     color: black !important;
     background-color: transparent;
-    border-bottom: 1px dotted #ed325a;
+    border-bottom: 0px dotted #ed325a;
 }
 
 .navbar-nav > li > a {
@@ -759,7 +759,7 @@ section:nth-of-type(2){background:black;height:1600px;}
 .nav-tabs {
     border-bottom: none;
     padding: 0px 15px;
-    width: 470px;
+    width: 623px;
     margin: auto;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
@@ -1199,12 +1199,12 @@ section:nth-of-type(2){background:black;height:1600px;}
     z-index: 1111;
 }
 .message1-client h3 {
-    font-size: 42px;
+    font-size: 37px;
     letter-spacing: 1px;
     color: white;
     margin-top: 0px;
     font-weight: 900;
-    line-height: 33px;
+    line-height: 37px;
     margin-bottom: 35px;
 }
 .message1-client p {
@@ -1373,7 +1373,7 @@ section:nth-of-type(2){background:black;height:1600px;}
     width: 100%;
 }
 .work-title {
-    padding-top: 155px;
+    padding-top: 40px;
 }
 .work-title h3 {
     font-size: 35px;

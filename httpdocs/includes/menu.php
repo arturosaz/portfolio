@@ -20,19 +20,16 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav ">
                                 <li>
-                                    <a href="#home" class="active">Home</a>
+                                    <a href="#home">Inicio</a>
                                 </li>
                                 <li>
-                                    <a href="about.php">About</a>
+                                    <a href="#about">Sobre mí</a>
                                 </li>
+                                <!--li>
+                                    <a href="#skill">Mis habilidades</a>
+                                </li-->
                                 <li>
-                                    <a href="work.html">Work</a>
-                                </li>
-                                <li>
-                                    <a href="blog.html">Blog</a>
-                                </li>
-                                <li>
-                                    <a href="contact.html">Contact</a>
+                                    <a href="#work">Mis proyectos</a>
                                 </li>
                             </ul><!-- end nav -->
                         </div><!-- end collapse navbar-collapse -->
