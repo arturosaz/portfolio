@@ -37,7 +37,7 @@
             </div><!-- end home  -->
         </div><!-- end main-page -->
         <?php include_once 'about.php'; ?>
-        <?php // include_once 'skills.php'; ?>
+        <?php include_once 'skills.php'; ?>
         <?php include_once 'work.php'; ?>
         <?php include_once 'includes/footer.php'; ?>
 

@@ -10,26 +10,169 @@
                 </div><!-- end col-md-12  -->
             </div><!-- end row  -->
             <div class="row skill-row wow fadeIn second-row">
-                <div class="col-md-6 col-sm-6 col-xs-12 about-col1 responsive">
+                <div class="col-md-4 col-sm-4 about-col1 responsive">
                     <div class="skillblock-details">
                         <div class="skill-details">
                             <div class="Fcontent">
                                 <div class="col">
                                     <ul id="skill-main">
-                                        <li><h3>Web Design-85%</h3><span class="expand Web"></span></li>
-                                        <li><h3>Graphics Design-90%</h3><span class="expand Graphics"></span></li>
-                                        <li><h3>Web Developing-82%</h3><span class="expand Developing"></span></li>
-                                        <li><h3>Photoshop-89%</h3><span class="expand Photoshop"></span></li>
-                                        <li><h3>Photography-95%</h3><span class="expand Photography"></span></li>
+                                        <li>
+                                            <h3>AJAX</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>BootStrap</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>CSS3</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>HTML5</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>JavaScript</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>jQuery</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>JSON</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h3>MySQL</h3>
+                                            <div class="progress">
+                                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                                            </div>
+                                        </li>
                                     </ul>
                                 </div><!-- end col  -->
                             </div><!-- end content  -->
                         </div><!-- end skill-details  -->
                     </div><!-- end about-details  -->
                 </div><!-- end col-md-8  -->
-                <div class="col-md-6 col-sm-6 no-padding-col about-col1">
-                    <div class="skill-taxt-details">
-                    </div><!-- end about-details  -->
+                <div class="col-md-4 col-sm-4 no-padding-col about-col1">
+                    <ul id="skill-main">
+                        <li>
+                            <h3>PHP</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Maquetación</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:95%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Gestión de bugs & incidencias</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Web Services</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>XML</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:100%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Análisis de proyectos</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:75%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Gestión de bugs & incidencias</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Git</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%"></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div><!-- end col-md-6  -->
+                <div class="col-md-4 col-sm-4 no-padding-col about-col1">
+                    <ul id="skill-main">
+                        <li>
+                            <h3>Jira</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:60%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Responsive Web Design</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>REST</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>SoapUI</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>UX</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:60%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Dirección de equipo</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:30%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Seguimiento de salud</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <h3>Formación on-boarding</h3>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:90%"></div>
+                            </div>
+                        </li>
+                    </ul>
                 </div><!-- end col-md-6  -->
             </div><!-- end row  -->
         </div><!-- end container  -->

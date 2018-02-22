@@ -25,9 +25,9 @@
                                 <li>
                                     <a href="#about">Sobre mí</a>
                                 </li>
-                                <!--li>
+                                <li>
                                     <a href="#skill">Mis habilidades</a>
-                                </li-->
+                                </li>
                                 <li>
                                     <a href="#work">Mis proyectos</a>
                                 </li>
